@@ -39,11 +39,11 @@
 ** Versions:
 **
 ** 1.0 - Initial release
-** 2.0 - Compatible with Basecamp 4.0 and cFS 7.0
+** 3.1 - Compatible with Basecamp 3.x new app version management
 **
 */
 
-static const char *Version = "2.0.0";
+static const char *Version = "3.1.0";
 
 /*
 ** Exported Functions
